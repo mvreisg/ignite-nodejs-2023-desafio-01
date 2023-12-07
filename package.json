@@ -1,0 +1,14 @@
+{
+  "name": "ignite-nodejs-2023-desafio-01",
+  "version": "1.0.0",
+  "description": "Desafio 01 do Ignite 2023 da Rocketseat",
+  "type": "module",
+  "scripts": {
+    "dev": "node --watch .\\src\\server.js"
+  },
+  "keywords": [
+    "rocketseat"
+  ],
+  "author": "mvreisg",
+  "license": "ISC"
+}
